@@ -1,3 +1,5 @@
+## Lógica JS 1/7: Operações Booleanas
+
 Este primeiro dia é super importante! Ao final dele, você terá um novo conhecimento que é essencial para os próximos desafios.
 
 Existe uma situação super comum para quem utiliza o Javascript: problemas com os tipos de variáveis na hora de comparar os valores de duas variáveis entre si. Eu já passei muito por isso!
@@ -20,6 +22,7 @@ O que não faz necessariamente muito sentido.
 (Você pode testar tudo isso indo no seu navegador, clicando com o botão direito, escolhendo a opção “Inspecionar” e a aba “Console”. Nessa aba, basta copiar e colar cada uma das linhas acima para confirmar que todas realmente retornam true).
 
 Sendo assim, a sua tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
+ 
  ```JS
 let numeroUm = 1
 let stringUm = '1'
@@ -46,3 +49,15 @@ if (COMPARAR O numeroDez e a stringDez) {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
 ```
+##
+
+## Dica 
+Você também pode utilizar o próprio navegador para executar esse seu programa, caso ainda não tenha familiaridade com editores de código, como o Visual Studio Code.
+
+Para isso, como eu falei acima, basta você clicar com o botão direito do mouse em qualquer página, selecionar a opção “Inspecionar”, ir na aba “Console” e digitar o seu código. Bem simples, né?
+
+Se você quiser mudar os nomes das variáveis e valores, fique à vontade. Mas jamais imprima algo que não seja verdadeiro, hein!
+
+##
+
+## Extra

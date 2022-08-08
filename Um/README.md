@@ -61,7 +61,7 @@ Se você quiser mudar os nomes das variáveis e valores, fique à vontade. Mas j
 ##
 
 ### Extra
-Separei um artigo da Alura para você aprender mais sobre operadores de comparação.
+Separei um artigo da Alura para você [aprender mais sobre operadores de comparação](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript?gclid=Cj0KCQiA_8OPBhDtARIsAKQu0gYUqZqgonpXyEP1_hpUl58wYAk_P3Ze4VWrxo9ftkFW9CLYOMyjO1caAlrzEALw_wcB&utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+L%C3%B3gica+JS+1%2F7%3A+Opera%C3%A7%C3%B5es+Booleanas&utm_campaign=%5BALURA+%237days+Of+Code%5D+%28L%C3%B3gica+de+Programa%C3%A7%C3%A3o+-+JavaScript%29+Dia+1%3A+Comparando+Valores&vgo_ee=UvcExMXC9n%2BwPUQb1GBocb%2FzHt4QudfJ8HmjbaH2pik%3D)
 
 ##
 

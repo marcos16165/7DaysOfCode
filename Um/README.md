@@ -27,9 +27,7 @@ let numeroTrinta = 30
 let stringTrinta = '30'
 let numeroDez = 10
 let stringDez = '10'
- ```
- 
-  ```JS
+
 if (COMPARAR O numeroUm e a stringUm) {
   console.log('As variáveis numeroUm e stringUm tem o mesmo valor, mas tipos diferentes')
 } else {

@@ -51,7 +51,7 @@ if (COMPARAR O numeroDez e a stringDez) {
 ```
 ##
 
-## Dica 
+### Dica
 Você também pode utilizar o próprio navegador para executar esse seu programa, caso ainda não tenha familiaridade com editores de código, como o Visual Studio Code.
 
 Para isso, como eu falei acima, basta você clicar com o botão direito do mouse em qualquer página, selecionar a opção “Inspecionar”, ir na aba “Console” e digitar o seu código. Bem simples, né?
@@ -60,4 +60,9 @@ Se você quiser mudar os nomes das variáveis e valores, fique à vontade. Mas j
 
 ##
 
-## Extra
+### Extra
+Separei um artigo da Alura para você aprender mais sobre operadores de comparação.
+
+##
+
+Bom trabalho!

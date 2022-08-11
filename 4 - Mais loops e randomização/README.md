@@ -1,4 +1,4 @@
-## 7DaysOfCode - Lógica JS 4/7: 👩🏽‍💻 Mais loops e randomização
+## Lógica JS 4/7: 👩🏽‍💻 Mais loops e randomização
 
 Você já brincou de tentar adivinhar o número que seu amigo ou amiga estava pensando? Hoje você vai voltar na infância e fazer exatamente isso. Mas agora, o jogo vai ser contra o próprio computador!
 

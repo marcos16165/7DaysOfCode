@@ -26,7 +26,7 @@ Note que cada informação entre [ ] é uma das respostas dadas pela pessoa.
 
 ##
 
-### EXERCÍCIO OPCIONAL
+### Exercício Opcional
 
 Se você quiser se aprofundar no assunto de hoje, eu tenho mais um exercício para você.
 

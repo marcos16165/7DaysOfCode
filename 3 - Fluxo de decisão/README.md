@@ -25,3 +25,56 @@ Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuári
 O importante é que a pessoa que estiver jogando possa sempre escolher qual decisão tomar para conseguir aprender e se desenvolver na área de programação.
 
 Além disso, também é essencial que, ao final do jogo, ela possa inserir quantas tecnologias quiser na lista de aprendizado.
+
+##
+### Dica
+Já deu pra ter uma ideia de como fazer toda essa historinha acontecer, né? Principalmente lembrando como utilizar as estruturas condicionais e loops em Javascript!
+
+Caso você ainda não saiba como imprimir e receber valores nas páginas web com HTML e CSS, você poderá usar console.log, prompt e alert para desenvolver o seu jogo, como você já viu nos últimos dias.
+
+Lembre-se que você pode sempre personalizar o jogo da forma que quiser.
+
+##  
+### Extra
+Você já viu estruturas condicionais em Javascript anteriormente, mas vou recapitular. O if é usado para verificar se uma determinada condição é verdadeira.
+
+Exemplo:
+
+```jS
+if (cidade === “Roma”){
+    // mostre a foto do “Coliseu”
+}
+```
+
+Além disso, ele também pode ser usado com um ou vários else if, que irá saber que a condição anterior era falsa e vai verificar se a atual é verdadeira.
+
+Por fim, existe o else sozinho, sem nenhuma condição, e o código dentro dele será executado sempre que todas as condições encadeadas anteriormente forem falsas.
+
+```JS
+if (cidade === “Roma”){
+    // mostre a foto do “Coliseu”
+}
+else if (cidade === “Paris”){
+    // mostre a foto do “Torre Eiffel”
+}
+else {
+    // dê a resposta “Você não digitou nenhuma cidade válida”
+}
+
+Além disso, para a parte 4, você precisará de uma estrutura de repetição (loop) como o while. Para usá-lo, é bem fácil:
+
+let idade = 0;
+
+while (idade < 8) {
+    // algum comando para imprimir a idade
+    idade = idade + 1;
+}
+```
+Esse código começará com a idade em zero e, ao entrar no while, esse valor será impresso e, logo depois, incrementado em 1.
+
+Ou seja, depois da primeira vez que ele passar, o valor da idade será igual a 1, que é menor que 8, e por isso, a condição do while terá um resultado verdadeiro e ele continuará a ser executado.
+
+Ele só vai parar quando o valor da variável idade chegar a 8, que não é menor que 8, e por isso a condição do while terá um resultado falso.
+
+Você também pode aprender mais sobre o while [nesse site](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+L%C3%B3gica+JS+3%2F7%3A+Fluxo+de+decis%C3%A3o&utm_campaign=%5BALURA+%237days+Of+Code%5D+%28L%C3%B3gica+de+Programa%C3%A7%C3%A3o+-+JavaScript%29+Dia+3%3A+Fluxo+de+decis%C3%A3o).
+

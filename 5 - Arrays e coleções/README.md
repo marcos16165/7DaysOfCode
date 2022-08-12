@@ -23,7 +23,7 @@ Depois, ele deverá perguntar em qual categoria essa comida se encaixa, com algu
 Por fim, caso você não queira mais adicionar nada na lista de compras e responder não na primeira pergunta, ele irá exibir uma lista com todos os itens agrupados, da seguinte forma:
 
 Caso você adicione na sua lista:
-banana, leite em pó, tomate, leite vegetal, chiclete, bala de ursinho, maçã, uva, abacate e leite de vaca
+*banana, leite em pó, tomate, leite vegetal, chiclete, bala de ursinho, maçã, uva, abacate e leite de vaca*
 
 O programa deverá imprimir, por exemplo:
 
@@ -48,10 +48,10 @@ Não se esqueça de compartilhar o seu código no seu GitHub e nas suas redes so
 ### Extra
 
 Para criar um array vazio, você pode usar colchetes. E aí, para inserir algo em um array, você pode usar a função .push(). Por exemplo:
-
+```JS
 let meuArray = [];
 meuArray.push(elemento1);
-
+```
 Depois disso, o array não estará mais vazio, ele terá o elemento1.
 
 Para aprender mais sobre arrays em Javascript, dê uma olhada [nesse site](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+L%C3%B3gica+JS+5%2F7%3A+Arrays+e+cole%C3%A7%C3%B5es&utm_campaign=%5BALURA+%237days+Of+Code%5D+%28L%C3%B3gica+de+Programa%C3%A7%C3%A3o+-+JavaScript%29+Dia+5%3A+Arrays+e+cole%C3%A7%C3%B5es).

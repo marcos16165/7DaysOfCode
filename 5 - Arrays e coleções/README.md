@@ -47,7 +47,7 @@ Não se esqueça de compartilhar o seu código no seu GitHub e nas suas redes so
 ##
 ### Extra
 
-Para criar um array vazio, você pode usar colchetes. E aí, para inserir algo em um array, você pode usar a função .push(). Por exemplo:
+Para criar um array vazio, você pode usar colchetes. E aí, para inserir algo em um array, você pode usar a função ```.push().``` Por exemplo:
 ```JS
 let meuArray = [];
 meuArray.push(elemento1);

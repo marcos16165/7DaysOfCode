@@ -33,6 +33,7 @@ Lista de compras:
     Congelados:
     Doces: chiclete e bala de ursinho
 
+##
 ### Dica
 
 Existe um objeto dentro da linguagem Javascript que é usado justamente para criar listas de elementos, chamado Array. Use e abuse dele!
@@ -42,3 +43,15 @@ Lembre-se que você sempre pode estilizar da maneira que quiser o seu programinh
 Porém, isso não é obrigatório na nossa lista de lógica de programação com Javascript. Como eu já mencionei nos dias anteriores, você pode usar recursos como console.log, alert e prompt para desenvolver o seu programa.
 
 Não se esqueça de compartilhar o seu código no seu GitHub e nas suas redes sociais com a hashtag #7DaysOfCode, e também com #feedback7DoC caso você precise de alguma ajuda.
+
+##
+### Extra
+
+Para criar um array vazio, você pode usar colchetes. E aí, para inserir algo em um array, você pode usar a função .push(). Por exemplo:
+
+let meuArray = [];
+meuArray.push(elemento1);
+
+Depois disso, o array não estará mais vazio, ele terá o elemento1.
+
+Para aprender mais sobre arrays em Javascript, dê uma olhada [nesse site](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+L%C3%B3gica+JS+5%2F7%3A+Arrays+e+cole%C3%A7%C3%B5es&utm_campaign=%5BALURA+%237days+Of+Code%5D+%28L%C3%B3gica+de+Programa%C3%A7%C3%A3o+-+JavaScript%29+Dia+5%3A+Arrays+e+cole%C3%A7%C3%B5es).
